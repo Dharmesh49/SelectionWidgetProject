@@ -1,0 +1,33 @@
+.center {
+    margin: auto;
+    width: 50%;
+   color:white;
+    padding: 10px;
+  }
+
+  
+  .img-responsive {
+    height: 250px;
+    float: left;
+  }
+
+  .textleft{
+    text-align: left;
+    font-size: 20;
+    margin-right: 20;
+  }
+
+  .lefttext{
+    text-align: left;
+    font-size: 15px;
+    right:20px;
+  
+  
+
+  }
+
+  .footer{
+    padding: 10px 20px;
+    background: black;
+    color: white;
+  }
